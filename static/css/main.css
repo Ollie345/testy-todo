@@ -1,13 +1,15 @@
 body, html {
     margin: 0;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Raleway', sans-serif;
     background-color: #f4f4f4;
 }
 
 .content {
     margin: 0 auto;
-    width: 80%;
-    max-width: 1200px;
+    width: 50%;
+    max-width: 1100px;
+    padding: 2em 3em;
+    box-sizing: border-box;
 }
 
 table, td, th {
